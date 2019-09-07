@@ -1,6 +1,6 @@
 # flickr-pic
 
-This Repo is a pratice demo from a docker tutorial demo, use a open resource "flickr.py" to download picture from Flickr
+This Repo is a pratice from a docker tutorial demo, use a open resource code "flickr.py" to download picture from Flickr.
 
 Docker file build
 
